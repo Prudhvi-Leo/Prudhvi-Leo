@@ -1,6 +1,6 @@
-![MasterHead](https://user-images.githubusercontent.com/74038190/240906093-9be4d344-6782-461a-b5a6-32a07bf7b34e.gif)
+![logo](https://user-images.githubusercontent.com/74038190/241765440-80728820-e06b-4f96-9c9e-9df46f0cc0a5.gif)
 <h1 align="center">Hi 😄🙋‍♂️, I'm Thalla Prudhvi Rao😁</h1>
-<h3 align="center">🚀A passionate about C# developemnt ,🙋‍♂️ MERN Stack and any Emerging Web Technologies</h3>
+<h3><pre align="center">🚀Meet me: I design, analyze, code, and deploy.  I'm a passionate .NET and MERN Stack developer </pre></h3>
 
 <img align="right" alt="coding" width="200" src="https://user-images.githubusercontent.com/74038190/235224431-e8c8c12e-6826-47f1-89fb-2ddad83b3abf.gif">
 
