@@ -1,5 +1,5 @@
 
-<h1 align="center">Hi 😄🙋‍♂️, I'm Thalla Prudhvi Rao 😁</h1>
+<h1 align="center">Hi 😄🙋‍♂️, I'm Thalla Prudhvi Rao 😁 </h1>
 <h3><pre align="center">🚀Meet me: I design, analyze, code, and deploy.  I'm a passionate .NET and MERN Stack developer </pre></h3>
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=prudhvi-leo&show_icons=true&locale=en&layout=compact" alt="prudhvi-leo" />
 <br><br><br><br><br>
