@@ -39,11 +39,3 @@
 
 
 <!--[logo](https://user-images.githubusercontent.com/74038190/241765440-80728820-e06b-4f96-9c9e-9df46f0cc0a5.gif)-->
-
-
-
-<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=prudhvi-leo&show_icons=true&locale=en" alt="prudhvi-leo" /></p>
-
-
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=prudhvi-leo&" alt="prudhvi-leo" /></p>
